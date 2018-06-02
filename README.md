@@ -4,17 +4,20 @@
 ## Course Title:
 Web Application Development
 
+## GitHub URL
+https://hrt15b.github.io/lesson3_versioncontrol/
+
 ## Assignment Date:  
-(Month Day, Year)
+06/01/2018
 
 ## Student Name:  
-(First and Last Name)
+Hunter Tondreau
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was focused on presenting information relating to Version Control systems through the use of a bootstrap template.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the basic concept of version control systems, and their applications in the real world.
+2. I learned the different types of version control systems, including local, centralized, and distributed systems.
+3. I learned about the overall functionality of GitHub and the purpose which it serves.
 
